@@ -1,0 +1,9 @@
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\bin\Debug\netstandard2.1\kagojBlazor.Shared.deps.json
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\bin\Debug\netstandard2.1\kagojBlazor.Shared.dll
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\bin\Debug\netstandard2.1\kagojBlazor.Shared.pdb
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\obj\Debug\netstandard2.1\kagojBlazor.Shared.csprojAssemblyReference.cache
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\obj\Debug\netstandard2.1\kagojBlazor.Shared.AssemblyInfoInputs.cache
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\obj\Debug\netstandard2.1\kagojBlazor.Shared.AssemblyInfo.cs
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\obj\Debug\netstandard2.1\kagojBlazor.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\obj\Debug\netstandard2.1\kagojBlazor.Shared.dll
+D:\Projects\blazor\kagojBlazor\kagojBlazor\Shared\obj\Debug\netstandard2.1\kagojBlazor.Shared.pdb
